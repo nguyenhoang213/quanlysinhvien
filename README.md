@@ -13,7 +13,7 @@ Tính năng:
 Cài đặt:
 - Cài đặt môi trường phát triển flutter trên máy
 - Cài đặt Git
-- Chạy lệnh git clone https://github.com/nguyenhoang213/quanlysinhvien
+- Chạy lệnh git clone https://github.com/nguyenhoang213/quanlysinhvien -b stable
 - Tài khoản chạy thử
   + Admin: email: admin@humg.edu.vn  password: 1234567
   + Student: email: 2121051340@student.humg.edu.vn   password: Hoang2103
